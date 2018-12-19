@@ -1,0 +1,3 @@
+Let’s replace the first line with this new one
+ Add a second line to this new version of the file
+this is the third line
